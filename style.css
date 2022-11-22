@@ -16,41 +16,46 @@ body{
 }
 
 .divider{
-  height:20px;
+  height:40px;
   background-color: #006E7F
 }
 .week_06{
   opacity: 0.7;
   background-color: #F8CB2E;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 .week_05{
   opacity: 0.7;
   background-color: #F8CB2E;
+  padding-top: 10px;
   padding-bottom: 10px;
-
 }
 .week_04{
   opacity: 0.7;
   background-color: #F8CB2E;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 .week_03{
   opacity: 0.7;
   background-color: #F8CB2E;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .week_02{
   opacity: 0.7;
   background-color: #F8CB2E;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .week_01{
     opacity: 0.7;
   background-color: #F8CB2E;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 
