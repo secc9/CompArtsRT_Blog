@@ -1,0 +1,79 @@
+/*CSS STYLE SHEET*/
+
+body{
+  margin: 0;
+  background-color: #006E7F;
+  text-align: left;
+}
+
+
+.title{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  height: 200px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.divider{
+  height:20px;
+  background-color: #006E7F
+}
+.week_06{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  padding-bottom: 10px;
+}
+.week_05{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  padding-bottom: 10px;
+
+}
+.week_04{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  padding-bottom: 10px;
+}
+.week_03{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  padding-bottom: 10px;
+}
+
+.week_02{
+  opacity: 0.7;
+  background-color: #F8CB2E;
+  padding-bottom: 10px;
+}
+
+.week_01{
+    opacity: 0.7;
+  background-color: #F8CB2E;
+  padding: 10px;
+}
+
+
+h1{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+h2{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: sans-serif;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: left;
+  text-indent: 30px;
+}
