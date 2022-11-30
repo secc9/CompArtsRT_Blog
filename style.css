@@ -19,6 +19,13 @@ body{
   height:40px;
   background-color: #006E7F
 }
+
+.week_07{
+	opacity:0.7;
+	background-color: #F8CB2E;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 .week_06{
   opacity: 0.7;
   background-color: #F8CB2E;
